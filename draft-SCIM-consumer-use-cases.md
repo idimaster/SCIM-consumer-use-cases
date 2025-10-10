@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "SCIM Consumer Use Cases"
+abbrev: "Consumer Use Cases"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-SCIM-consumer-use-cases-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -36,7 +36,7 @@ keyword:
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
+  group: SCIM
   type: Working Group
   mail: WG@example.com
   arch: https://example.com/WG
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Dmitry Izumskiy
+    organization: Intuit
+    email: dmitry_izumskiy@intuit.com
 
 normative:
 
