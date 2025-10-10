@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: SCIM
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: SCIM
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "idimaster/SCIM-consumer-use-cases"
+  latest: "https://idimaster.github.io/SCIM-consumer-use-cases/draft-SCIM-consumer-use-cases.html"
 
 author:
  -
