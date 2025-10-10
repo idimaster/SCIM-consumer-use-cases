@@ -9,12 +9,12 @@ number:
 date:
 consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
+area: sec
+workgroup: scim
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - scim
+ - consumer
+ - use cases
 venue:
 #  group: SCIM
 #  type: Working Group
